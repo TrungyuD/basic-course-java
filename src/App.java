@@ -34,7 +34,7 @@ public class App {
     //day la cach dung constructor
     Task bonusBet = new Task("Bonus Bet");
     Task nextjs = new Task("Nextjs");
-    Task clearSpecs = new Task("Clear Specs");
+    Task clearSpecs = new Task("Clear Specs"); 
 
     thube.review = bonusBet;
 
